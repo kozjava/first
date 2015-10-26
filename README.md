@@ -1,6 +1,3 @@
-echo # first >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/kozjava/first.git
-git push -u origin master
+Андрей Дроздов
+2 курс 5 группа
+ПОИБМС
